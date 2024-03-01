@@ -4,7 +4,7 @@ One-stop-shop **ultimate** anti-swear solution for your Minecraft server!
 Available on GitHub, MineBBS
 
 [English](https://github.com/hahawth/AdvancedSensitiveWordsBungee)
-[简体中文](https://github.com/hahawth/AdvancedSensitiveWordsBungee/blob/main/README_zh.md)
+[简体中文](https://github.com/hahawth/AdvancedSensitiveWordsBungee/blob/master/README_zh.md)
 <p align="center">
   <img src="logo.webp" alt="logo" width="128" height="128"/>
 </p>
