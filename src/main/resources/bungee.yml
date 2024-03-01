@@ -1,0 +1,5 @@
+name: AdvancedSensitiveWordsBungee
+version: '${project.version}'
+main: io.wdsj.aswb.AdvancedSensitiveWords
+author: HaHaWTH
+description: Ultimate anti-swear plugin for BungeeCord.
