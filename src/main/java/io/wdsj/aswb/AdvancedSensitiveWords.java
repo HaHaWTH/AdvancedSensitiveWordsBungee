@@ -69,7 +69,7 @@ public final class AdvancedSensitiveWords extends Plugin {
         if (settingsManager.getProperty(PluginSettings.PURGE_LOG_FILE)) purgeLog();
         PacketEvents.getAPI().getEventManager().registerListener(new ASWPacketListener());
         PacketEvents.getAPI().init();
-        int pluginId = 20661;
+        int pluginId = 21183;
         Metrics metrics = new Metrics(this, pluginId);
         metrics.addCustomChart(new SimplePie("default_list", () -> String.valueOf(settingsManager.getProperty(PluginSettings.ENABLE_DEFAULT_WORDS))));
         metrics.addCustomChart(new SimplePie("java_vendor", TimingUtils::getJvmVendor));
