@@ -59,7 +59,7 @@ Logo designed by GPT-4
 `advancedsensitivewords.test` - Allows you to use the /aswb test command`
 
 ## Statistics
-[![](https://img.shields.io/bstats/servers/21183?label=Spigot%20Servers&style=for-the-badge)](https://bstats.org/plugin/bungeecord/AdvancedSensitiveWords-Bungee/21183)
+[![](https://img.shields.io/bstats/servers/21183?label=Bungee%20Servers&style=for-the-badge)](https://bstats.org/plugin/bungeecord/AdvancedSensitiveWords-Bungee/21183)
 
 [![](https://img.shields.io/bstats/players/21183?label=Online%20Players&style=for-the-badge)](https://bstats.org/plugin/bungeecord/AdvancedSensitiveWords-Bungee/21183)
 

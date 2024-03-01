@@ -54,9 +54,9 @@ Logo 由 GPT-4 生成
 `advancedsensitivewords.test` - 允许使用test命令
 
 ## 统计数据
-[![](https://img.shields.io/bstats/servers/20661?label=Spigot%20Servers&style=for-the-badge)](https://bstats.org/plugin/bukkit/AdvancedSensitiveWords/20661)
+[![](https://img.shields.io/bstats/servers/21183?label=Bungee%20Servers&style=for-the-badge)](https://bstats.org/plugin/bungeecord/AdvancedSensitiveWords-Bungee/21183)
 
-[![](https://img.shields.io/bstats/players/20661?label=Online%20Players&style=for-the-badge)](https://bstats.org/plugin/bukkit/AdvancedSensitiveWords/20661)
+[![](https://img.shields.io/bstats/players/21183?label=Online%20Players&style=for-the-badge)](https://bstats.org/plugin/bungeecord/AdvancedSensitiveWords-Bungee/21183)
 
 
 ## 赞助
